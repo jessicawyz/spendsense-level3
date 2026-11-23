@@ -1,0 +1,17 @@
+{
+  "student": "Alex Tan (fictional)",
+  "month": "2026-11",
+  "currency": "SGD",
+  "monthly_budget": 1100,
+  "category_budgets": {
+    "Food & Drinks": 350,
+    "Transport": 180,
+    "Groceries": 100,
+    "Shopping": 200,
+    "Entertainment": 60,
+    "Subscriptions": 35,
+    "Bills": 20,
+    "Education": 80,
+    "Health": 40
+  }
+}
